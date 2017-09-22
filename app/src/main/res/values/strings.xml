@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToastExample</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="success_label">Welcome to CodingDemos</string>
+    <string name="error_label">Please don\'t leave any fields empty</string>
+</resources>
